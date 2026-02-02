@@ -2,9 +2,9 @@
   "dataset_name": "ask_octo_cvd",
   "dataset_version": "v1.0",
   "row_count": {
-    "train": 2,
-    "val": 0,
-    "test": 1
+    "train": 800,
+    "val": 100,
+    "test": 100
   },
   "splits": {
     "seed": 42,
@@ -15,9 +15,9 @@
     ]
   },
   "checksums": {
-    "train.jsonl": "bc8feaac19ba0f8368e3b9570db5c838f1d6a454ccef6ab3f699922a5e8b7c23",
-    "val.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "test.jsonl": "eb78f81a3288d07734d717e6af0c2bf24f8b44e7e7593f8c41226a59ae2f4e96"
+    "train.jsonl": "a5b944b04a44fdf0672620c6db1b35ef767613f78ad57c7aa15a00a60edc7019",
+    "val.jsonl": "dbd20b271841623947efa670547015c91bf40f8f4d7767d6985f18cc4c592876",
+    "test.jsonl": "c73368ca5919002c2e307da644517038199deab44185c10b697be03c22f56a69"
   },
   "provenance": "Curated for Ask Octo medical LLM traceability proof-of-concept."
 }
